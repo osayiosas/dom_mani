@@ -34,4 +34,19 @@ NodeList.prototype.on = NodeList.prototype.addEventListener = function (
 const table = $(".table");
 console.log(table);
 
+// const counter = $ ('#counter');
+// console.log(counter.matches);
+
+
+let content = document.body.firstChild.nextSibling.data;
+//console.log(content);
+
+// classes
+// classlist.add('newclass');
+// classlist.remove('newclass');
+
+
+
+
+
 
